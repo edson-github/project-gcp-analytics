@@ -1,0 +1,67 @@
+site_name: My Docs
+# adcionar tema material
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: dark-blue
+    accent: dark-blue
+    # logo
+    logo: 'img/logo.png'
+    favicon: 'img/favicon.ico'
+    # favicon: 'img/favicon.png'
+    # favicon: 'img/favicon.svg'
+    # favicon: 'img/favicon.jpg'
+    # favicon: 'img/favicon.jpeg'
+    # favicon: 'img/favicon.gif'
+    # favicon: 'img/favicon.bmp'
+    # favicon: 'img/favicon.tiff'
+    # favicon: 'img/favicon.webp'
+    # favicon: 'img/favicon.ico'
+    # favicon: 'img/favicon.png'
+    # favicon: 'img/favicon.svg'
+    # favicon: 'img/favicon.jpg'
+    # favicon: 'img/favicon.jpeg'
+    # favicon: 'img/favicon.gif'
+    # favicon: 'img/favicon.bmp'
+    # favicon: 'img/favicon.tiff'
+    # favicon: 'img/favicon.webp'
+    # favicon: 'img/favicon.ico'
+    # favicon: 'img/favicon.png'
+    # favicon: 'img/favicon.svg'
+    # favicon: 'img/favicon.jpg'
+    # favicon: 'img/favicon.jpeg'
+    # favicon: 'img/favicon.gif'
+    # favicon: 'img/favicon.bmp'
+    # favicon: 'img/favicon.tiff'
+    # favicon: 'img/favicon.webp'
+    # favicon: 'img/favicon.ico'
+    # favicon: 'img/favicon.png'
+    # favicon: 'img/favicon.svg'
+    # favicon: 'img/favicon.jpg'
+    # favicon: 'img/favicon.jpeg'
+    # favicon: 'img/favicon.gif'
+    # favicon: 'img/favicon.bmp'
+    # favicon: 'img/favicon.tiff'
+    # favicon: 'img/favicon.webp'
+    # favicon: 'img/favicon.ico'
+    # favicon: 'img/favicon.png'
+    # favicon: 'img/favicon.svg'
+    # favicon: 'img/favicon.jpg'
+    # favicon: 'img/favicon.jpeg'
+    # favicon: 'img/favicon.gif'
+    # favicon: 'img/favicon.bmp'
+    # favicon: 'img/favicon.tiff'
+    # favicon: 'img/favicon.webp'
+    # favicon: 'img/favicon.ico'
+    # favicon: 'img/favicon.png'
+    # favicon: 'img/favicon.svg'
+    # favicon: 'img/favicon.jpg'
+    # favicon: 'img/favicon.jpeg'
+    
+
+
+
+
+
+  # adiionar arquivos .md da pasta docs
